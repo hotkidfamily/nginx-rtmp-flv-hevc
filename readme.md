@@ -15,4 +15,4 @@
 ## perl
 [strawberryperl](https://strawberryperl.com/download/5.32.1.1/strawberry-perl-5.32.1.1-64bit.msi)
 
-_Cause different perl version makes different nasm dectet result._
+_As different perl version makes different nasm dectetion result._
