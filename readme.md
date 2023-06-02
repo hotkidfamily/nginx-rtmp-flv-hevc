@@ -1,4 +1,4 @@
-# NGINX Windows buildding
+# NGINX Windows building
 
 * Code Base nginx-1.25.0 - release
 
